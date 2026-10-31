@@ -2,7 +2,7 @@
 
 # Kumaresan K
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00C9FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Node.js+%2B+TypeScript;AWS+Serverless+%7C+Lambda+%7C+API+Gateway;Agentic+AI+%7C+LangGraph+%7C+FastAPI;B.E.+CSE+(Data+Science)+%40+Annamalai+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00C9FF&center=true&vCenter=true&width=700&lines=Associate+Software+Developer+%7C+Node.js+%2B+TypeScript;AWS+Serverless+%7C+Lambda+%7C+API+Gateway;Agentic+AI+%7C+LangGraph+%7C+FastAPI;B.E.+CSE+(Data+Science)+%40+Annamalai+University)](https://git.io/typing-svg)
 
 <a href="https://kumaresan.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kumaresan-k-4289452b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,7 +15,7 @@
 
 ## About
 
-- 💼 **Software Engineer** at **Meyi Cloud Solutions** (AWS Advanced Tier Partner, Puducherry) since May 2025
+- 💼 **Associate Software Developer** at **Meyi Cloud Solutions** (AWS Advanced Tier Partner, Puducherry) since May 2025
 - ☁️ Building **serverless backends** with **Node.js, TypeScript, AWS Lambda, API Gateway, PostgreSQL and Drizzle ORM**
 - 🎓 **B.E. Computer Science & Engineering (Data Science)**, Annamalai University: CGPA 8.26 (2026)
 - 🤖 On the side: **agentic AI backends**, **RAG pipelines** and **privacy-first intelligent systems**
@@ -40,7 +40,7 @@
 
 ## Experience
 
-**Software Engineer: Meyi Cloud Solutions Pvt. Ltd.** · May 2025 to present
+**Associate Software Developer: Meyi Cloud Solutions Pvt. Ltd.** · May 2025 to present
 
 - Build and maintain **Node.js / TypeScript serverless backends** on AWS Lambda and API Gateway
 - Model and query data with **PostgreSQL and Drizzle ORM**
